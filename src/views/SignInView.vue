@@ -1,7 +1,6 @@
 <template>
-  <div class="flex flex-col justify-center items-center bg-neutral-800 text-white mt-20 p-4 rounded-xl h-[20rem] w-[25rem] shadow-[0_7px_30px_0px_rgba(255,255,255,0.3)]
-  ">
-    <form class="">
+  <div class="flex flex-col justify-center items-center bg-neutral-800 text-white mt-20 p-4 rounded w-96 h-[20rem] max-w-[90%]">
+    <form class="sm:m-10">
       <div>
         <h1 class="text-4xl mb-4 text-center font-black font-dancing">Whispr</h1>
 
